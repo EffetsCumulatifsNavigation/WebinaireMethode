@@ -97,14 +97,14 @@ pre code {
     font-size: 13pt;
     font-family: 'Fira Sans';
     color: #272822;
-    opacity: 1;
+    opacity: 0;
   }
 
   .inverse .remark-slide-number {
     font-size: 13pt;
     font-family: 'Fira Sans';
     color: #FAFAFA;
-    opacity: 1;
+    opacity: 0;
   }
 
   .inverse h1 {
@@ -276,3 +276,72 @@ pre code {
   .font200 {
     font-size: 200%;
   }
+
+  table.TC {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 70%;
+    text-align: left;
+    border-collapse: collapse;
+  }
+  table.TC td, table.TC th {
+    border: 2px solid #AAAAAA;
+    padding: 3px 2px;
+  }
+  table.TC tbody td {
+    font-size: 12px;
+    color: #333333;
+  }
+  table.TC thead {
+    background: #0D2C45;
+    background: -moz-linear-gradient(top, #496173 0%, #254157 66%, #0D2C45 100%);
+    background: -webkit-linear-gradient(top, #496173 0%, #254157 66%, #0D2C45 100%);
+    background: linear-gradient(to bottom, #496173 0%, #254157 66%, #0D2C45 100%);
+    border-bottom: 2px solid #444444;
+  }
+  table.TC thead th {
+    font-size: 12px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-align: center;
+  }
+
+  .full .remark-slide-number {
+    display: none;
+  }
+
+  .full {
+    background-color: #FFFFFF;
+    background-size: contain;
+    border: 0px;
+    line-height: 1;
+    }
+
+  <style>
+      #wrap { width: 1200px; height: 390px; padding: 0; overflow: hidden; }
+      #frame { width: 1000px; height: 850px; border: 1px solid black; }
+      #frame {
+          -ms-zoom: 0.75;
+          -moz-transform: scale(0.75);
+          -moz-transform-origin: 0 0;
+          -o-transform: scale(0.75);
+          -o-transform-origin: 0 0;
+          -webkit-transform: scale(0.75);
+          -webkit-transform-origin: 0 0;
+      }
+  </style>
+
+  div.team {
+    width: 100%;
+    text-align: center;
+  }
+  .divTable.team .divTableCell, .divTable.team .divTableHead {
+    padding: 3px 2px;
+  }
+  /* DivTable.com */
+  .divTable{ display: table; }
+  .divTableRow { display: table-row; }
+  .divTableHeading { display: table-header-group;}
+  .divTableCell, .divTableHead { display: table-cell;}
+  .divTableHeading { display: table-header-group;}
+  .divTableFoot { display: table-footer-group;}
+  .divTableBody { display: table-row-group;}
