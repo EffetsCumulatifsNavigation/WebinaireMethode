@@ -32,6 +32,8 @@ class: title-slide, middle
 ]
 
 <a href="https://www.ulaval.ca/"><img src="assets/img/ul.png" width="100px"></img></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/img/labo_benthos.png" width="50px"></img>
 
 ---
 
