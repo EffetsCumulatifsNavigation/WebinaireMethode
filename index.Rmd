@@ -42,7 +42,7 @@ class: inverse, center, middle
 
 # Équipe de travail
 
-<html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-60px" size=1px width=720px></html>
+<html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
 
 ---
 
@@ -59,7 +59,7 @@ class: inverse, center, middle
 </div><div class="divTableCell">
 <img src="assets/img/cindy.jpeg" style="width: 250px">
 </div><div class="divTableCell">
-<img src="assets/img/phil.jpg" style="width: 250px">
+<img src="assets/img/phil.png" style="width: 250px">
 </div></div>
 <div class="divTableRow">
 <div class="divTableCell"><b>David Beauchesne</b></div><div class="divTableCell"><b>Cindy Grant</b></div><div class="divTableCell"><b>Philippe Archambault</b></div></div>
@@ -73,7 +73,7 @@ class: inverse, center, middle
 
 # Évaluations d'effets environnementaux
 
-<html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-60px" size=1px width=720px></html>
+<html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
 
 ---
 
@@ -113,7 +113,7 @@ class: inverse, center, middle
 
 # Étapes
 
-<html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-60px" size=1px width=720px></html>
+<html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
 
 ---
 
@@ -283,24 +283,9 @@ class: inverse, center, middle
 
 class: inverse, center, middle
 
-# Portée
-
-<html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-60px" size=1px width=720px></html>
-
-
----
-
-# Portée
-
-À définir avec Catherine pour éviter l'overlap avec leur présentation
-
----
-
-class: inverse, center, middle
-
 # Portrait de la zone d'étude
 
-<html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-60px" size=1px width=720px></html>
+<html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
 
 
 ---
@@ -308,6 +293,10 @@ class: inverse, center, middle
 # Portrait de la zone d'étude
 
 ## Activités et facteurs de stress
+
+**Activités**: *Action qui peut entraîner un ou plusieurs facteurs de stress sur l'écosystème en cours d'évaluation.*
+
+**Facteurs de stress**: *Tout élément physique, chimique ou biologique qui, à un niveau d'intensité donné, est susceptible d'avoir des effets négatifs sur une composante valorisée.*
 
 <table class="TC">
 <thead>
@@ -345,6 +334,8 @@ class: inverse, center, middle
 # Portrait de la zone d'étude
 
 ## Composantes valorisées
+
+*Éléments sur lesquels l'analyse d'effet cumulatif est effectuée et ayant été estimés préoccupants par les parties prenantes d'un projet.*
 
 <table class="TC">
 <thead>
@@ -431,13 +422,15 @@ class: inverse, center, middle
 
 ## Vulnérabilité
 
+*Sensibilité des composantes valorisées aux facteurs de stress issus des activités évaluées.*
+
 <table class="TC">
 <thead>
 <tr>
 <th></th>
 <th>Dragage</th>
 <th>Ancrages</th>
-<th>Écouements et naufrages</th>
+<th>Échouements et naufrages</th>
 <th>Déversements accidentels</th>
 <th>Navigation</th>
 <th>Engins de pêche</th>
@@ -504,7 +497,13 @@ Important nombre de combinaisons <i><b>stresseurs - composantes valorisées</b><
 
 # Portrait de la zone d'étude
 
-<center><img src="assets/img/vulnerability.png" width="70%"></img></center>
+## Vulnérabilité
+
+<center><img src="assets/img/vulnerability.png" width="60%"></img></center>
+
+<p style="font-size:15px; line-height:1.4; text-align: right; margin-right: 15%">
+<i>Beauchesne et al. 2018</i>
+</p>
 
 ---
 
@@ -512,94 +511,103 @@ class: inverse, center, middle
 
 # Méthode d'analyse
 
-<html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-60px" size=1px width=720px></html>
+<html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
 
 
 ---
 
-class: full, middle
+# Méthode d'analyse
+
+## Portrait de la zone d'étude
 
 <center><img src="assets/img/atlas.png" width="80%"></img></center>
 
-
 ---
 
-class: full, middle
+# Méthode d'analyse
+
+## Standardisation
 
 <center><img src="assets/img/atlas2.png" width="80%"></img></center>
 
 
 ---
 
-class: full, middle
+# Méthode d'analyse
+
+<br/>
 
 <center><img src="assets/img/concept1.png" width="80%"></img></center>
 
----
+--
 
-class: full, middle
-
-<center><img src="assets/img/concept2.png" width="80%"></img></center>
+<center><img src="assets/img/vulnerability.png" width="30%"></img></center>
 
 ---
 
-class: full, middle
+# Méthode d'analyse
 
-<center><img src="assets/img/concept3.png" width="80%"></img></center>
-
----
-
-class: full, middle
-
-<center><img src="assets/img/concept4.png" width="80%"></img></center>
+<center><img src="assets/img/concept2.png" width="70%"></img></center>
 
 ---
 
-class: full, middle
+# Méthode d'analyse
 
-<center><img src="assets/img/concept5.png" width="80%"></img></center>
-
----
-
-class: full, middle
-
-<center><img src="assets/img/concept6.png" width="80%"></img></center>
+<center><img src="assets/img/concept3.png" width="70%"></img></center>
 
 ---
 
-class: full, middle
+# Méthode d'analyse
 
-<center><img src="assets/img/concept7.png" width="80%"></img></center>
+<center><img src="assets/img/concept4.png" width="70%"></img></center>
+
+---
+
+# Méthode d'analyse
+
+<center><img src="assets/img/concept5.png" width="70%"></img></center>
+
+---
+
+# Méthode d'analyse
+
+<center><img src="assets/img/concept6.png" width="70%"></img></center>
+
+---
+
+# Méthode d'analyse
+
+<center><img src="assets/img/concept7.png" width="70%"></img></center>
 
 
 ---
 
-class: full, middle
+# Méthode d'analyse
+
+<br/>
 
 <center><img src="assets/img/math.png" width="80%"></img></center>
 
 ---
 
-class: full, middle
+# Méthode d'analyse
 
-<center><img src="assets/img/beauchesne2018.png" width="80%"></img></center>
+## Effets cumulatifs - Saint-Laurent
 
+<center><img src="assets/img/beauchesne2018.png" width="90%"></img></center>
 
----
-
-class: full, middle
-
-<center><img src="assets/img/halpern2019.png" width="80%"></img></center>
 
 ---
 
-class: full, middle
+# Méthode d'analyse
 
-<center><img src="assets/img/concept8.png" width="80%"></img></center>
+<center><img src="assets/img/concept8.png" width="70%"></img></center>
 
 ---
 
-class: full, middle
+# Méthode d'analyse
+
+## Exposition cumulée - Saint-Laurent
 
 <center><img src="assets/img/beauchesne2020.jpg" width="80%"></img></center>
 
@@ -610,15 +618,9 @@ class: full, middle
 
 ---
 
-class: full, middle
+# Méthode d'analyse
 
-<center><img src="assets/img/concept9.png" width="80%"></img></center>
-
----
-
-class: full, middle
-
-<center><img src="assets/img/concept10.png" width="80%"></img></center>
+<center><img src="assets/img/concept10.png" width="70%"></img></center>
 
 <!-- ---
 
@@ -643,7 +645,7 @@ class: full, middle
 * Exploration efficace de multiples questions d'intérêt
 --
 
-* Identification de séquences d'effets et de chemins d'exposition
+* Identification de séquences d'effets
 --
 
 * Portrait géographique contemporain de la zone d'étude
@@ -658,10 +660,10 @@ class: full, middle
 * Évaluation relative des effets cumulatifs
 --
 
-* Ignore les interactions entre facteurs de stress
+* Assume des effets additifs entre stresseurs
 --
 
-* Assume des effets additifs entre stresseurs
+* Diffiulté de considérer des données non-spatiales
 --
 
 * Contraint par la disponibilité des données
@@ -673,7 +675,7 @@ class: inverse, center, middle
 
 # Considérations particulières
 
-<html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-60px" size=1px width=720px></html>
+<html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
 
 ---
 
@@ -685,7 +687,7 @@ class: inverse, center, middle
 * **Évaluation contemporaine**: 5-10 ans
 --
 
-* **Évaluation contrainte par les données disponibles**: aucune collecte de données nouvelles par notre équipe
+* **Évaluation contrainte par les données disponibles**: aucune collecte de données nouvelles *in situ* par notre équipe
 --
 
 * **Évaluation sectorielle**: d'autres facteurs de stress affectent assurément les composantes valorisées
@@ -696,7 +698,7 @@ class: inverse, center, middle
 
 # Collecte et gestion des données
 
-<html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-60px" size=1px width=720px></html>
+<html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
 
 ---
 
@@ -749,4 +751,4 @@ class: inverse, center, middle
 
 # Merci de votre attention!
 
-<html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-60px" size=1px width=720px></html>
+<html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
