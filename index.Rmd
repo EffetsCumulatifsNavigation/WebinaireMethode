@@ -4,7 +4,7 @@ author: "David Beauchesne, Cindy Grant, Philippe Archambault"
 date: "2020/04/07"
 output:
   xaringan::moon_reader:
-    css: [default, rd.css, rd-font.css, "hygge"]
+    css: [rd.css, rd-font.css, default, "hygge"]
     lib_dir: assets
     seal: false
     nature:
