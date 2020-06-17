@@ -355,3 +355,27 @@ image(l[[1]], col = pal(100), axes = F, xlab = '', ylab = ''); box()
 
 
 dev.off()
+
+
+
+# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+# Zone d'étude
+# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+output <- paste0('./assets/img/zone_etude.png')
+
+mat <- matrix(0, ncol = 7, nrow = 2)
+mat[1,1] <- 1
+mat[2,1] <- 2
+
+png(output, res = 200, width = 200, height = 50, units = "mm")
+layout(mat, widths = c(1,.2,1,.2,1,.2,1), heights = c(.25,1))
+
+# Aire etude
+par(mar = c(0,0,0,0))
+plot0()
+text(0,0,"Zone\nd'étude", adj = c(.5,.5), font = 2, cex = 1.5)
+
+par(mar = c(1,1,1,1))
+plot0()
+box()
+dev.off()

@@ -513,6 +513,20 @@ class: inverse, center, middle
 
 <html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
 
+---
+
+# Méthode d'analyse
+
+<center><img src="assets/img/zone_etude.png" width="80%"></img></center>
+
+--
+
+<center><img src="assets/img/concept1.png" width="80%"></img></center>
+
+--
+
+<center><img src="assets/img/vulnerability.png" width="30%"></img></center>
+
 
 ---
 
@@ -529,19 +543,6 @@ class: inverse, center, middle
 ## Standardisation
 
 <center><img src="assets/img/atlas2.png" width="80%"></img></center>
-
-
----
-
-# Méthode d'analyse
-
-<br/>
-
-<center><img src="assets/img/concept1.png" width="80%"></img></center>
-
---
-
-<center><img src="assets/img/vulnerability.png" width="30%"></img></center>
 
 ---
 
