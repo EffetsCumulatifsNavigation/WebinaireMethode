@@ -18,6 +18,7 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 ```
 <!--
 rmarkdown::render('./index.Rmd')
+xaringan::decktape("https://effetscumulatifsnavigation.github.io/WebinaireMethode", "Webinaire.pdf", docker = FALSE)
 -->
 
 class: title-slide, middle
